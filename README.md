@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate astrophysicist with deep research interests in star and planet formation, observational astrophysics, and radio astronomy. My academic journey has been driven by curiosity about the universe and a love for uncovering insights from vast, complex datasets.
+I'm a passionate astrophysicist with deep research interests in star and planet formation, observational astrophysics, astrochemistry, and radio astronomy. My work primarily explores the earliest embedded protostellar systems, specifically Class 0 and Class I sources. As an observational astrophysicist, I have been driven by a deep curiosity to extract insights from large and complex observational datasets, particularly those obtained from state-of-the-art observatories.
 
 - 👨‍💻 Proficient in Python, R, SQL, and LaTeX.
 - 💡 Strong interest in data science, data wrangling, and visualization.
