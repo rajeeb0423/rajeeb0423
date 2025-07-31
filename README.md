@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rajeeb Sharma!
+## Hi there 👋 I'm Rajeeb Sharma! Welcome to my GitHub
 
 🎓 **Recent PhD Graduate in Astrophysics from Niels Bohr Institute, University of Copenhagen**  
 🔭 Researcher in Star & Planet Formation | Observational Astrophysics | Radio Astronomy
