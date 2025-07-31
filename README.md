@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rajeeb Sharma!
 
-🎓 **Recent PhD Graduate in Astrophysics**  
+🎓 **Recent PhD Graduate in Astrophysics from Niels Bohr Institute, University of Copenhagen**  
 🔭 Researcher in Star & Planet Formation | Observational Astrophysics | Radio Astronomy
 
 ---
