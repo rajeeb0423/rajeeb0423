@@ -25,10 +25,12 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
 - **Early Planet Formation in Embedded Disks (eDisk). XX: Constraining the Chemical Tracers of Young Protostellar Sources**  
   *(submitted to A&A)*
 
-- [**Early Planet Formation in Embedded Disks (eDisk). IX. High-resolution ALMA Observations of the Class 0 Protostar R CrA IRS5N and Its Surroundings**](https://doi.org/10.3847/1538-4357/ace35c)\n
+- [**Early Planet Formation in Embedded Disks (eDisk). IX. High-resolution ALMA Observations of the Class 0 Protostar R CrA IRS5N and Its Surroundings**](https://doi.org/10.3847/1538-4357/ace35c)
+
   **Bibliography:** Sharma et al 2023 ApJ 954 69
 
-- [**Constraining the Chemical Signatures and the Outburst Mechanism of the Class 0 Protostar HOPS 383**](https://doi.org/10.3847/1538-4357/abbdf4)\n
+- [**Constraining the Chemical Signatures and the Outburst Mechanism of the Class 0 Protostar HOPS 383**](https://doi.org/10.3847/1538-4357/abbdf4)
+  
   **Bibliography:** Sharma et al 2020 ApJ 904 78
 
 ---
