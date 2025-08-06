@@ -53,7 +53,7 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajeebsharma-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeebsharma)
 
 ---
-## 💻 Languages & Tools
+## 💻 Languages
 
 ### Advanced:
 
@@ -76,15 +76,16 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
 
 ---
 
-### Tools
+## Tools
 
 <p>
   <a href="https://scipy.org/" target="_blank"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="Scipy" width="32" /></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243" alt="Numpy" width="32" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="32" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="32" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/seaborn/16A085" alt="Seaborn" width="32" /></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" width="32" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/365630?v=4" alt="Seaborn" width="32" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="32" /></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="32" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="32" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="32" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="32" /></a>
