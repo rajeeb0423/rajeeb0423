@@ -85,11 +85,13 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="32" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/365630?v=4" alt="Seaborn" width="32" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="32" /></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="32" /></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="32" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="32" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="32" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="32" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="32" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="32" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="32" /></a>
 </p>
 
 ---
