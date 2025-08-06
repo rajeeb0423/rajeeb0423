@@ -58,34 +58,31 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
 ### Languages
 
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="32" /></a>
+  **Advanced:**<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="32" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="32" /></a>
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/latex/008080" alt="LaTeX" width="32" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="32" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="32" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="32" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.simpleicons.org/mathworks/0076A8" alt="Matlab" width="32" /></a>
+  **Familiar:**<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="32" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="32" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="32" /></a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank"><img src="https://cdn.simpleicons.org/wolfram/DD1100" alt="Mathematica" width="32" /></a>
 </p>
-**Advanced:** Python, R, LaTeX, Bash  
-**Familiar:** HTML, CSS, Java, Matlab, Mathematica
-
 ---
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white&style=flat" alt="Scipy"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Seaborn-16A085?logo=seaborn&logoColor=white&style=flat" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow"/>
+  <a href="https://scipy.org/" target="_blank"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="Scipy" width="32" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243" alt="Numpy" width="32" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="32" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="32" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/seaborn/16A085" alt="Seaborn" width="32" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" width="32" /></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="32" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="32" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="32" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="32" /></a>
 </p>
 
 ---
