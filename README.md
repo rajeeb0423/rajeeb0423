@@ -58,17 +58,16 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat" alt="R"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" alt="Bash"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" alt="Java"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white&style=flat" alt="Matlab"/>
-  <img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white&style=flat" alt="Mathematica"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="32" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="32" /></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/latex/008080" alt="LaTeX" width="32" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="32" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="32" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="32" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.simpleicons.org/mathworks/0076A8" alt="Matlab" width="32" /></a>
+  <a href="https://www.wolfram.com/mathematica/" target="_blank"><img src="https://cdn.simpleicons.org/wolfram/DD1100" alt="Mathematica" width="32" /></a>
 </p>
-
 **Advanced:** Python, R, LaTeX, Bash  
 **Familiar:** HTML, CSS, Java, Matlab, Mathematica
 
