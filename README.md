@@ -17,7 +17,7 @@ I'm a passionate astrophysicist with research interests in star and planet forma
 ## 🌟 Featured Projects
 
 - [eDisk Chemistry App](https://edisk-app.streamlit.app)  
-  *An interactive tool for exploring chemistry in protoplanetary disks.*
+  *An interactive tool for exploring chemistry in protoplanetary disks of the eDisk program.*
 
 - [ASCII Art Generator](https://ascii-art-gen.streamlit.app)  
   *Turn images and gifs into ASCII art with this fun web app!*
