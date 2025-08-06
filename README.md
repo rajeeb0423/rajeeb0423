@@ -70,7 +70,7 @@ I'm a passionate astrophysicist with research interests in star and planet forma
 <p>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" /></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="32" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="32" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13679&format=png" alt="Java" width="32" /></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="32" /></a>
   <a href="https://www.wolfram.com/mathematica/" target="_blank"><img src="https://cdn.simpleicons.org/wolfram/DD1100" alt="Mathematica" width="32" /></a>
 </p>
