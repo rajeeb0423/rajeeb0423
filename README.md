@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rajeeb Sharma!
-<p style="text-align: right"> <i>“It is a capital mistake to theorize before one has data.” – Sherlock Holmes </i> </p>
+<p align= "right"> <i>“It is a capital mistake to theorize before one has data.” – Sherlock Holmes </i> </p>
 🎓 **Recent PhD Graduate in Astrophysics**  
 🔭 Researcher in Star & Planet Formation | Observational Astrophysics | Radio Astronomy
 
