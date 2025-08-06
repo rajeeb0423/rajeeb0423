@@ -92,5 +92,6 @@ I'm a passionate astrophysicist with research interests in star and planet forma
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="32" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="32" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="32" /></a>
+  <a href="https://www.tidyverse.org/" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Tidyverse_hex_logo.svg" width="32" /></a>
 </svg>
 </p>
