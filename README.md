@@ -53,7 +53,41 @@ I'm a passionate astrophysicist with deep research interests in star and planet 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajeebsharma-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeebsharma)
 
 ---
+## 💻 Languages & Tools
 
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat" alt="R"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" alt="Bash"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" alt="Java"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white&style=flat" alt="Matlab"/>
+  <img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white&style=flat" alt="Mathematica"/>
+</p>
+
+**Advanced:** Python, R, LaTeX, Bash  
+**Familiar:** HTML, CSS, Java, Matlab, Mathematica
+
+---
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white&style=flat" alt="Scipy"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Seaborn-16A085?logo=seaborn&logoColor=white&style=flat" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" alt="TensorFlow"/>
+</p>
 
 ---
 
