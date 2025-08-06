@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rajeeb Sharma!
-
+<p style="text-align: right"> <i>“It is a capital mistake to theorize before one has data.” – Sherlock Holmes </i> </p>
 🎓 **Recent PhD Graduate in Astrophysics**  
 🔭 Researcher in Star & Planet Formation | Observational Astrophysics | Radio Astronomy
 
@@ -94,7 +94,3 @@ I'm a passionate astrophysicist with research interests in star and planet forma
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="32" /></a>
 </svg>
 </p>
-
----
-
-_“It is a capital mistake to theorize before one has data.” – Sherlock Holmes_
