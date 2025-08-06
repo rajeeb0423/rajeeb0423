@@ -41,10 +41,10 @@ I'm a passionate astrophysicist with research interests in star and planet forma
   *(submitted to A&A)*
 
 - **Early Planet Formation in Embedded Disks (eDisk). IX. High-resolution ALMA Observations of the Class 0 Protostar R CrA IRS5N and Its Surroundings**  
-  [doi: 10.3847/1538-4357/ace35c](https://doi.org/10.3847/1538-4357/ace35c), bibliography: Sharma et al 2023 ApJ 954 69
+  [doi: 10.3847/1538-4357/ace35c](https://doi.org/10.3847/1538-4357/ace35c), bibliography: Sharma et al. 2023 ApJ 954 69
 
 - **Constraining the Chemical Signatures and the Outburst Mechanism of the Class 0 Protostar HOPS 383**  
-  [doi: 10.3847/1538-4357/abbdf4](https://doi.org/10.3847/1538-4357/abbdf4), bibliography: Sharma et al 2020 ApJ 904 78
+  [doi: 10.3847/1538-4357/abbdf4](https://doi.org/10.3847/1538-4357/abbdf4), bibliography: Sharma et al. 2020 ApJ 904 78
 
 ---
 
