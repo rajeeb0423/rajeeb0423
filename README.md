@@ -83,7 +83,7 @@ I'm a passionate astrophysicist with research interests in star and planet forma
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243" alt="Numpy" width="32" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="32" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="32" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/365630?v=4" alt="Seaborn" width="32" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="32" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="32" /></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png" alt="Tableau" width="32" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="32" /></a>
